@@ -2,7 +2,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları takip edin:
 
 1 - Proje Dosyalarını Alın: Proje dosyalarını indirin veya klonlayın.
 
-2 - Yesayarınrel Sunucuyu Başlatın: Bilgiızda kurulu olan XAMPP, WAMP, Laragon gibi bir PHP ve MySQL sunucu paketini çalıştırın (Apache ve MySQL servislerinin aktif olduğundan emin olun).
+2 - Yerel Sunucuyu Başlatın: Bilgisayarınızda kurulu olan XAMPP, WAMP, Laragon gibi bir PHP ve MySQL sunucu paketini çalıştırın (Apache ve MySQL servislerinin aktif olduğundan emin olun).
 
 3 - Veritabanını Oluşturun: Tarayıcınızdan localhost/phpmyadmin adresine gidin. dijitalkart adında yeni bir veritabanı oluşturun. Oluşturduğunuz veritabanını seçip İçe Aktar sekmesinde dosyaların arasındaki dijitalkart.sql'i içe aktarın:
 
